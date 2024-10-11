@@ -1,4 +1,6 @@
-Hello Git 
+Hey there!! It's a git practice
 
-i am adding this from 
+
+- This is coming from dev-jsm
+- I am adding this from 
 `feature`
